@@ -15,7 +15,7 @@
 <br>
 
 - A passionate Self-taught Front-end developer, working as a full-stack now
-- Playing Games and read about in my spare time
+- I like playing Games and playing badminton in my spare time
 - Currently working with ReactJs, NodeJs(Typescript) for development
 - I have worked with or familiar with: 
   - `Nodejs(Typescript)`, namely `ReactJS`, `NextJS`, `Redux (saga/thunk)`, `ContextAPI`, and `zuzstand` for state management, for `Front End`
