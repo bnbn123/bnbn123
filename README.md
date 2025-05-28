@@ -1,10 +1,5 @@
 <h1 align="center"><b>Hi , I'm Hien </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<div align="center">
-    <img src="https://media.giphy.com/media/fRB9j0KCRe0KY/giphy.gif"  />
-</div>
-
-
 
 <br>
 
